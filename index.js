@@ -22,4 +22,9 @@ function startGame() {
         isAlive = false
     }
     messageEl.textContent = message
+
+    console.log("Who are you and what do you want");
+    console.log("Duniya banai maine hathon se");
 }
+
+
